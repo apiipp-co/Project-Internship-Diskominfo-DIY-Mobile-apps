@@ -97,23 +97,3 @@ Kami sangat menyambut kontribusi Anda pada proyek Jogjis! Jika Anda ingin berkon
 5.  Buat Pull Request (PR) ke branch utama di repositori ini.
 
 Mohon pastikan untuk menguji perubahan Anda dan usahakan agar kode Anda mengikuti gaya coding yang sudah ada dalam proyek.
-
-## Lisensi
-
-[**Opsional:** Cantumkan informasi lisensi di sini jika proyek Anda memiliki lisensi. Contoh: `Proyek ini dilisensikan di bawah [Nama Lisensi] - lihat file [LICENSE.md](LICENSE.md) untuk detail.`]
-
----
-
-<**Opsional:** Anda dapat menambahkan bagian ini untuk menyertakan gambar tangkapan layar (screenshot) aplikasi Anda. Contoh:
-
-
-Ganti `path/to/screenshotX.png` dengan path atau URL gambar tangkapan layar Anda.>
-
-Langkah Selanjutnya:
-
-Salin Teks di atas.
-Buat File README.md di folder utama proyek "Jogjis-main" Anda.
-Tempelkan teks yang sudah disalin ke dalam file README.md tersebut.
-Edit Bagian Placeholder (<...>) agar sesuai dengan detail spesifik proyek Anda (deskripsi, URL repositori, lisensi opsional, screenshot opsional).
-Simpan file README.md.
-Gunakan Git untuk menambahkan file README.md, lakukan commit, dan push ke repositori GitHub Anda.
