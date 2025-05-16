@@ -2,6 +2,7 @@
 
 Aplikasi platform layanan publik dan informasi terpadu untuk wilayah Yogyakarta, dibangun menggunakan Flutter.
 
+![Jogjis App](https://raw.githubusercontent.com/apiipp-co/Project-Internship-Diskominfo-DIY-Mobile-apps/main/Blue%20and%20White%20Modern%20Mobile%20App%20Developer%20Instagram%20Post.png)
 
 
 
